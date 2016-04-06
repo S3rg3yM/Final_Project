@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">5 recipes pork skewers </string>
+    <string name="btn1_text"><b>Skewers of spicy pork</b></string>
+    <string name="btn2_text"><b>Skewers of pork with tomatoes</b></string>
+    <string name="btn3_text"><b>Skewers of pork in white wine</b></string>
+    <string name="btn4_text"><b>Skewers of pork with herbs</b></string>
+    <string name="btn5_text"><b>Skewers of pork marinated in pomegranate juice</b></string>
+    <string name="description1">image1</string>
+    <string name="description2">image2</string>
+    <string name="description3">image3</string>
+    <string name="description4">image4</string>
+    <string name="description5">image5</string>
+    <string name="text1">
+        <b>Ingredients:</b> pork neck - 1.5 kg, onions - 400 g, 1 piece lemon, chilli - 1 pc., Vegetable oil -. 2 tablespoons of mineral water - 300 ml, red bell pepper, black pepper, dry oregano, salt - to taste.
+        \n\n
+        <b>Preparation:</b> The meat cut into large cubes, and onion half - rings 1 cm thick in a separate bowl grate the remaining onion, squeeze the lemon juice, put the finely chopped chilli.. Pour mineral water, oil, add spices.
+        \n\n
+        Pour the marinade the meat with the onion halves and squeezed lemon. Stir, cover and leave to marinate for 2 hours. Skewered pork on skewers with onions and roast over the coals until cooked meat.
+    </string>
+    <string name="text2">
+        <b>Ingredients:</b> pork neck - 1.8 kg, onions - 2 pieces, black pepper - 1 tsp, tomatoes - 200 g, salt - 1 tsp.
+        \n\n
+        <b>Preparation:</b> to cut meat is not too large pieces (about 5 cm). Excess fat to cut. On the underside of the tomatoes to make a shallow incision crossed drop a minute in boiling water, then peel. Slice as finely as possible.
+        \n\n
+        Onions cut into half rings, add the sea salt and shake hands, so he gave the juice. Add meat to onions and tomatoes. Add pepper, mix well, cover and put to marinate for 2-3 hours. Marinated pork evenly strung on skewers.
+        \n\n
+        Coals ignite and bring to a state where they are covered with ashes, but the inside will remain hot. Broil skewers, often turning the skewers so that they fry evenly on all sides. When they are well browned on all sides, they are likely to have ready. Check readiness may be by cutting a piece of meat - juice should be transparent.
+    </string>
+    <string name="text3">
+        <b>Ingredients:</b> 2 kg pork neck, 1 cup dry white wine, 1 teaspoon coriander, black pepper, bay leaf, black pepper, salt.
+        \n\n
+        <b>Preparation:</b> Pork neck cut into pieces a la carte. Cutting should be so that each piece of meat fat layer was present. From this kebab is juicier and tastier. Meat should be laid in a pan, season with spices and pour the white dry wine. All mix thoroughly and remove to cool for several hours. From time to time, do not forget to stir it.
+        \n\n
+        Before cooking skewers and season with salt to make a fire. After preparing the coals, strung the meat on skewers and roast barbecue. During cooking, pour the marinade over the meat will get a dry wine. Cooking skewers until browned.
+    </string>
+    <string name="text4">
+        <b>Ingredients:</b> pork - 1 kg, onions - 0.5 kg, vinegar - 6% - 6 tablespoons, ground black pepper, salt - to taste, green onion and cilantro - 1 bunch.
+        \n\n
+        <b>Preparation:</b> Meat desirable to take from the leg or the carcass of the back (of the kidney), wash under cold water, cut into middle-sized portions. Onions cut into rings. Meat salt, pepper and put in an enamel bowl layers, shifting each layer of onions.
+        \n\n
+        Vinegar diluted in 0.5 liters of cold water and pour over the meat with a solution. Dishes cover and put in a cool place for 2-5 hours. Then strung on skewers so that the space left between the pieces. Cook for 10-12 minutes, turning around an axis every 1-2 minutes.
+        \n\n
+        When serving sprinkle with chopped green onions and coriander. To the table it is recommended to apply together with onion or tomato sauce.
+    </string>
+    <string name="text5">
+        <b>Ingredients:</b> pork neck - 1.5 - 2 kg of fresh pomegranate juice - 1 cup, onions, tomatoes or peppers - 4 or 2 pieces. (Optional), cloves, parsley, basil, coarse salt, ground black pepper.
+        \n\n
+        <b>Preparation:</b> to cut the meat into portions and put it on the bottom of the first layer of enamel casserole, sprinkle with spices. Cut the onion rings and put the meat on the second layer. Finely chop the herbs and sprinkle it the meat with onions. Then put the next layer of meat, a layer of onions, sprinkle with herbs and spices and so on until, until the meat is finished.
+        \n\n
+        Cover with flowers cloves (4-5 pieces), pour the pomegranate juice and put in a cool place for four hours. Every hour must be mixed. For half an hour before the start of the preparation of the meat you need to add salt. Strung on a skewer, alternating with tomatoes, roast over coals.
+    </string>
+</resources>
